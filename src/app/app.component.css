@@ -1,0 +1,16 @@
+.float-button {
+  position: fixed;
+  bottom: 40px;
+  margin-left: center;
+}
+
+
+.mdl-layout__content {
+  padding: 12px;
+  flex: none;
+
+}
+
+.figura{
+  padding: 2px;
+}
